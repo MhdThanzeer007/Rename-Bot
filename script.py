@@ -57,7 +57,7 @@ Send me any Telegram file and choose appropriate option!
 
 ○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/mhdthanzeer07/RENAMER-BOT) 
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://t.me/solve_666/4) 
 
 ○ ᴄʀᴇᴀᴛᴏʀ :[ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://t.me/mhd_thanzeer)
 
