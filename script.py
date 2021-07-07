@@ -27,8 +27,8 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = " ""@mhd_thanzeer"
-
+    CUSTOM_CAPTION_UL_FILE = "@mhd_thanzeer"
+    CUSTOM_CAPTION_UL_FILE = ""
     HELP_USER = """
 
 <b>It's not that complicated😅</b>
